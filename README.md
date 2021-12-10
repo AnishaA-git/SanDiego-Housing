@@ -1,5 +1,6 @@
 # SanDiego-Profitable Investment Properties
 Project Video link : https://drive.google.com/file/d/1dQeps1aJXuxevkIVTwuwqPJusedqNX9m/view?usp=sharing
+
 **Business Case and Value**
 Business case is to find properties that are good investments.
 
