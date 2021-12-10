@@ -22,6 +22,6 @@ Adding Crime rate data, definitely enhanced the dataset, added from 3rd dataset.
 Added Average Income from 3rd dataset
 Latent Variable = having the best combination above 5 data, which could be profitable, affordable and safe.
 
-## Conslusion
+## Conclusion
 
 Using fractal clustering, we can get more fine grained results which is more accurate than increasing the overall number of clusters initially. It helps in understanding which cluster to focus upon and do more in depth analysis on it. Also we found out feature importance can help a lot in using the important features and also reducing noise, for this we have leveraged gini scores, correlation matrix, PCA and shapley values. In this project, through fractal clustering we were able to find out the most profitable investment properties in San Diego through the Zillow dataset. These properties have the potential to generate positive cash flow through the property value minus expenses calculation. We can also conclude that enriching the data using amalgamation has resulted in more accuracy in classifiers and regressors. To find out which classifiers and regressors works best, we have created a loop to run all the classifiers and regressors and analyzed their metrics using accuracy, precision, recall and Mean Absolute Error. For future work, this project can be extended to other areas and also the data can be enriched with factors like past hazards, disaster prone zone, schools rating, neighborhood, amenities etc, which would give further insight into these properties.
