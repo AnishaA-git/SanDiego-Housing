@@ -1,5 +1,8 @@
 # SanDiego-Profitable Investment Properties
-Project Video link : https://drive.google.com/file/d/1dQeps1aJXuxevkIVTwuwqPJusedqNX9m/view?usp=sharing
+1. Project Video link : https://drive.google.com/file/d/1dQeps1aJXuxevkIVTwuwqPJusedqNX9m/view?usp=sharing
+2. PPT Link: https://docs.google.com/presentation/d/1hs_YkRTec_VR5L2Tq3aQHvmnX6U5BY91/edit?usp=drive_web&ouid=105508805058914804319&rtpof=true
+3. Colab link: https://colab.research.google.com/drive/1aDcrOGZ8srHstyE5wkVfe8-d_jMYN-2_#scrollTo=wNGGf-1e4l5N
+4. IEEE Paper link:
 
 **Business Case and Value**
 Business case is to find properties that are good investments.
